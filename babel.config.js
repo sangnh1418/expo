@@ -11,6 +11,7 @@ module.exports = function (api) {
             ASSETS: './assets',
             CORE: './src/Core',
             Layouts: './src/Core/Layouts',
+            LearningExpo: './src/LearningExpo'
           },
         },
       ],
