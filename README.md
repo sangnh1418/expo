@@ -10,8 +10,10 @@ learning expo
 - use TouchOpacity && Style as Button
 
 ## Picking an Image
-- React doesnt provide : image picker
+- React doesnt provide : expo image picker
 - Use an library Expo : _expo-image-picker_
+- The way to resize image use: resizeMode: "contain" in css in js
+
 
 
 
